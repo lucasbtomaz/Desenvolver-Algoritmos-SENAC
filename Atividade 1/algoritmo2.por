@@ -1,32 +1,28 @@
-/* ATIVIDADE 1 - Descrição:
- * Você está trabalhando em um sistema para um hotel da cidade. 
- * Esse sistema registrará as reservas e o controle das hospedagens, 
- * além de outros aspectos como o uso de áreas comuns ou o aluguel de espaços de evento. 
- * O projeto está em estágio inicial e foi solicitado à equipe, 
- * a partir de alguns requisitos importantes, que monte algoritmos, 
- * os quais posteriormente possam ou não ser convertidos em funcionalidades do sistema. 
- * Sua tarefa é utilizar o Portugol para montar alguns desses algoritmos.
- */
 programa
 {
     funcao inicio()
     {
+        // Declaração de variáveis
         inteiro convidados
 
+        // Apresentação inicial
         escreva ("#############################")
         escreva ("# HOTEL SP - SEJA BEM VINDO #")
         escreva ("#############################\n")
 
+        // Solicitação de dados
         escreva ("SOLICITANDO DADOS DOS CONVIDADOS PARA EVENTO\n")
         escreva ("Numero de convidados: ")
         leia (convidados)
 
+        // Verificação da quantidade de convidados
         se (convidados < 30 ou convidados > 350)
         {
             escreva ("Quantidade de convidados superior ou inferior à capacidade\n")
         }
         senao
         {
+            // Cálculos para o buffet
             escreva ("###########################\n")
             escreva ("DADOS DO BUFFET PARA EVENTO\n")
 
@@ -37,14 +33,17 @@ programa
             cafe = convidados * 0.2
             salgadinho = convidados * 7
 
+            // Exibição dos valores calculados
             escreva (cafe, " litro(s) de café, ", agua, " litro(s) de água, ", salgadinho, " salgadinhos\n")
         }
 
+        // Apresentação final
         escreva ("#############################")
         escreva ("# HOTEL SP - SEJA BEM VINDO #")
         escreva ("#############################\n")
     }
 }
+
 
 /* $$$ Portugol Studio $$$ 
  * 
