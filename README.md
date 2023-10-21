@@ -12,7 +12,7 @@ Tarefas:<p>
 2. Algoritmo que calcula a quantidade de café, água e salgadinhos necessários para um evento alocado no hotel. O cálculo é baseado no número de convidados e o algoritmo também inclui um mecanismo de verificação para garantir que o número de convidados esteja dentro da capacidade adequada, entre 30 e 350 convidados.
 3. Algoritmo para ajudar o hotel a escolher o auditório mais adequado para um evento.
 4. Algoritmo que permite aos hóspedes escolher entre usar a lavanderia ou a piscina do hotel. 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
 ## Atividade 2 - Controle de Diárias e Valores no Hotel
 
 Contexto: <p>
@@ -22,5 +22,13 @@ Tarefas:<p>
 1. Algoritmo que solicita o valor de uma diária no hotel e a quantidade de dias de hospedagem, validando as informações.
 2. Algoritmo que permite informar a quantidade de hóspedes e, para cada hóspede, coleta o número do quarto e o valor da diária.
 3. Algoritmo que recebe o valor padrão de uma diária no hotel.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+## Atividade 3 - Sitema de banco de dados do Hotel
 
+Contexto: <p>
+O sistema de hotéis trabalhará intensamente com banco de dados, uma vez que são necessários registros variados – desde informações sobre hóspedes, questões de inventário, reservas e valores. Algumas situações podem ser simuladas ou preparadas por meio de algoritmos. Regras e funcionalidades previstas ao sistema lhe são passadas para serem desenvolvidas, testadas e ajustadas com o auxílio do Portugol.
+
+Tarefas:<p>
+1. Algoritmo de cortesia para os hóspedes no restaurante do Hotel. 
+2. Vetor para identificar se o quarto esta vazio ou ocupado.
+3. algoritmo em que o usuário poderá cadastrar e pesquisar hóspedes.
