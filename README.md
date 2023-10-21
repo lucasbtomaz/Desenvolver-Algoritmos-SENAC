@@ -1,7 +1,7 @@
-## Módulo I - Desenvolver Algoritmos
+# Módulo I - Desenvolver Algoritmos
 Bem-vindo ao repositório da disciplina "Módulo I - Desenvolver Algoritmos" do SENAC. Este repositório contém uma série de atividades práticas que ajudarão você a desenvolver suas habilidades de programação e lógica de algoritmos. Cada atividade está organizada em pastas individuais, numeradas de 1 a 5.
 
-# Atividade 1 - Sistema de Reservas de Hotel
+## Atividade 1 - Sistema de Reservas de Hotel
 
 Contexto
 Você está trabalhando em um projeto para um hotel na cidade. 
