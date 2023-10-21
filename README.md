@@ -13,3 +13,14 @@ Tarefas:<p>
 3. Algoritmo para ajudar o hotel a escolher o auditório mais adequado para um evento.
 4. Algoritmo que permite aos hóspedes escolher entre usar a lavanderia ou a piscina do hotel. 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Atividade 2 - Controle de Diárias e Valores no Hotel
+
+Contexto: <p>
+No projeto do sistema para um hotel, esta atividade visa criar algoritmos que auxiliem o hotel a manter um processo de validação dentro de seus processos de controle de diárias e valores. Para isso, são definidas regras específicas que garantem que as informações inseridas sejam válidas.
+
+Tarefas:<p>
+1. Algoritmo que solicita o valor de uma diária no hotel e a quantidade de dias de hospedagem, validando as informações.
+2. Algoritmo que permite informar a quantidade de hóspedes e, para cada hóspede, coleta o número do quarto e o valor da diária.
+3. Algoritmo que recebe o valor padrão de uma diária no hotel.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
