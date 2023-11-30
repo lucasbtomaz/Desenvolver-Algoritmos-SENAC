@@ -32,3 +32,16 @@ Tarefas:<p>
 1. Algoritmo de cortesia para os hóspedes no restaurante do Hotel. 
 2. Vetor para identificar se o quarto esta vazio ou ocupado.
 3. algoritmo em que o usuário poderá cadastrar e pesquisar hóspedes.
+-----------------------------------------------------------------------------------------------------------
+# Sitema Final
+
+Contexto:<p>
+
+Este é um sistema que irá cadastrar e listar hóspedes, reservar áreas de lazer e calcular valores. 
+O sistema será cíclico, isso é, apenas irá terminar quando o usuário, de fato, decidir sair do sistema. 
+
+Tarefas: <p>
+1. Construir o Menu.
+2. Exibir Hospedes Cadastrados
+3. Reservar Área de Lazer
+4. Calcular total a pagar
