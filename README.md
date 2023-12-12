@@ -1,4 +1,4 @@
-# Módulo I - Desenvolver Algoritmos
+1# Módulo I - Desenvolver Algoritmos
 Bem-vindo ao repositório da disciplina "Módulo I - Desenvolver Algoritmos" do SENAC. Este repositório contém uma série de atividades práticas que me ajudaram a desenvolver minhas habilidades de programação e lógica de algoritmos. Cada atividade está organizada em pastas individuais, numeradas de 1 a 5.
 
 ## Atividade 1 - Sistema de Reservas de Hotel
@@ -51,18 +51,19 @@ Tarefas: <p>
 Se você deseja contribuir com melhorias, correções ou adicionar novas funcionalidades a este repositório, siga estas etapas:
 
 <p>
-Faça um fork deste repositório.
-Crie uma branch para suas alterações: git checkout -b nome-da-sua-branch.
-Realize as alterações desejadas e faça commits: git commit -m "Descrição das alterações".
-Faça um push para a sua branch: git push origin nome-da-sua-branch.
-Abra um pull request para revisão.
+- Faça um fork deste repositório.
+- Crie uma branch para suas alterações: git checkout -b nome-da-sua-branch.
+- Realize as alterações desejadas e faça commits: git commit -m "Descrição das alterações".
+- Faça um push para a sua branch: git push origin nome-da-sua-branch.
+- Abra um pull request para revisão.
+  
 -----------------------------------------------------------------------------------------------------------
 ## Observações
 
 <p>
-Certifique-se de seguir as boas práticas de programação e documentação.
-Mantenha a documentação atualizada conforme novas atividades são adicionadas.
-Respeite o código de conduta e as diretrizes da comunidade.
-Agradecemos sua contribuição e esperamos que este repositório seja útil para o seu aprendizado em desenvolvimento de algoritmos. 
+- Certifique-se de seguir as boas práticas de programação e documentação.
+- Mantenha a documentação atualizada conforme novas atividades são adicionadas.
+- Respeite o código de conduta e as diretrizes da comunidade.
+- Agradecemos sua contribuição e esperamos que este repositório seja útil para o seu aprendizado em desenvolvimento de algoritmos. 
   
 Bons estudos!
