@@ -48,22 +48,20 @@ Tarefas: <p>
 -----------------------------------------------------------------------------------------------------------
 ## Como Contribuir
 
-Se você deseja contribuir com melhorias, correções ou adicionar novas funcionalidades a este repositório, siga estas etapas:
+Se você deseja contribuir com melhorias, correções ou adicionar novas funcionalidades a este repositório, siga estas etapas: <p>
 
-<p>
-- Faça um fork deste repositório.
-- Crie uma branch para suas alterações: git checkout -b nome-da-sua-branch.
-- Realize as alterações desejadas e faça commits: git commit -m "Descrição das alterações".
-- Faça um push para a sua branch: git push origin nome-da-sua-branch.
-- Abra um pull request para revisão.
+- Faça um fork deste repositório. <p>
+- Crie uma branch para suas alterações: git checkout -b nome-da-sua-branch. <p>
+- Realize as alterações desejadas e faça commits: git commit -m "Descrição das alterações". <p>
+- Faça um push para a sua branch: git push origin nome-da-sua-branch. <p>
+- Abra um pull request para revisão. <p>
   
 -----------------------------------------------------------------------------------------------------------
 ## Observações
 
-<p>
-- Certifique-se de seguir as boas práticas de programação e documentação.
-- Mantenha a documentação atualizada conforme novas atividades são adicionadas.
-- Respeite o código de conduta e as diretrizes da comunidade.
-- Agradecemos sua contribuição e esperamos que este repositório seja útil para o seu aprendizado em desenvolvimento de algoritmos. 
+- Certifique-se de seguir as boas práticas de programação e documentação. <p>
+- Mantenha a documentação atualizada conforme novas atividades são adicionadas. <p>
+- Respeite o código de conduta e as diretrizes da comunidade. <p>
+- Agradecemos sua contribuição e esperamos que este repositório seja útil para o seu aprendizado em desenvolvimento de algoritmos. <p> 
   
 Bons estudos!
